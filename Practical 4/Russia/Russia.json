@@ -1,0 +1,37 @@
+[
+    {
+        "country": "Russia",
+        "date": "2020-04-07",
+        "confirmed_cases": { "total": 50000, "new": 100 },
+        "deaths": { "total": 800, "new": 10 },
+        "recovered": { "total": 35000, "new": 200 }
+    },
+    {
+        "country": "Russia",
+        "date": "2020-04-08",
+        "confirmed_cases": { "total": 50100, "new": 100 },
+        "deaths": { "total": 810, "new": 10 },
+        "recovered": { "total": 35200, "new": 200 }
+    },
+    {
+        "country": "Russia",
+        "date": "2020-04-09",
+        "confirmed_cases": { "total": 50200, "new": 100 },
+        "deaths": { "total": 820, "new": 10 },
+        "recovered": { "total": 35400, "new": 200 }
+    },
+    {
+        "country": "Russia",
+        "date": "2020-04-10",
+        "confirmed_cases": { "total": 50300, "new": 100 },
+        "deaths": { "total": 830, "new": 10 },
+        "recovered": { "total": 35600, "new": 200 }
+    },
+    {
+        "country": "Russia",
+        "date": "2020-04-11",
+        "confirmed_cases": { "total": 50400, "new": 100 },
+        "deaths": { "total": 840, "new": 10 },
+        "recovered": { "total": 35800, "new": 200 }
+    }
+]

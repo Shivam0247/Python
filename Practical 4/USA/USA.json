@@ -1,0 +1,37 @@
+[
+    {
+        "country": "USA",
+        "date": "2020-04-07",
+        "confirmed_cases": { "total": 300000, "new": 5000 },
+        "deaths": { "total": 8000, "new": 200 },
+        "recovered": { "total": 150000, "new": 3000 }
+    },
+    {
+        "country": "USA",
+        "date": "2020-04-08",
+        "confirmed_cases": { "total": 305000, "new": 5000 },
+        "deaths": { "total": 8200, "new": 200 },
+        "recovered": { "total": 153000, "new": 3000 }
+    },
+    {
+        "country": "USA",
+        "date": "2020-04-09",
+        "confirmed_cases": { "total": 310000, "new": 5000 },
+        "deaths": { "total": 8400, "new": 200 },
+        "recovered": { "total": 156000, "new": 3000 }
+    },
+    {
+        "country": "USA",
+        "date": "2020-04-10",
+        "confirmed_cases": { "total": 315000, "new": 5000 },
+        "deaths": { "total": 8600, "new": 200 },
+        "recovered": { "total": 159000, "new": 3000 }
+    },
+    {
+        "country": "USA",
+        "date": "2020-04-11",
+        "confirmed_cases": { "total": 320000, "new": 5000 },
+        "deaths": { "total": 8800, "new": 200 },
+        "recovered": { "total": 162000, "new": 3000 }
+    }
+]

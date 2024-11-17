@@ -1,0 +1,37 @@
+[
+    {
+        "country": "India",
+        "date": "2020-04-07",
+        "confirmed_cases": { "total": 1050, "new": 50 },
+        "deaths": { "total": 22, "new": 2 },
+        "recovered": { "total": 830, "new": 30 }
+    },
+    {
+        "country": "India",
+        "date": "2020-04-08",
+        "confirmed_cases": { "total": 1100, "new": 50 },
+        "deaths": { "total": 24, "new": 2 },
+        "recovered": { "total": 860, "new": 30 }
+    },
+    {
+        "country": "India",
+        "date": "2020-04-09",
+        "confirmed_cases": { "total": 1150, "new": 50 },
+        "deaths": { "total": 26, "new": 2 },
+        "recovered": { "total": 890, "new": 30 }
+    },
+    {
+        "country": "India",
+        "date": "2020-04-10",
+        "confirmed_cases": { "total": 1200, "new": 50 },
+        "deaths": { "total": 28, "new": 2 },
+        "recovered": { "total": 920, "new": 30 }
+    },
+    {
+        "country": "India",
+        "date": "2020-04-11",
+        "confirmed_cases": { "total": 1250, "new": 50 },
+        "deaths": { "total": 30, "new": 2 },
+        "recovered": { "total": 950, "new": 30 }
+    }
+]

@@ -1,0 +1,20 @@
+2024-10-14 14:15:43,456 - INFO - Application started
+2024-10-14 14:15:43,458 - INFO - Attempting to add book: The Great Gatsby with quantity: 10
+2024-10-14 14:15:43,458 - DEBUG - Book The Great Gatsby added successfully with quantity 10
+2024-10-14 14:15:43,458 - INFO - Attempting to add book: 1984 with quantity: 15
+2024-10-14 14:15:43,458 - DEBUG - Book 1984 added successfully with quantity 15
+2024-10-14 14:15:43,458 - INFO - Attempting to add book: The Great Gatsby with quantity: 5
+2024-10-14 14:15:43,458 - WARNING - Book The Great Gatsby already exists. Use update_book instead.
+2024-10-14 14:15:43,459 - INFO - Attempting to update book: 1984 with new quantity: 5
+2024-10-14 14:15:43,459 - DEBUG - Book 1984 updated successfully. New quantity: 20
+2024-10-14 14:15:43,459 - INFO - Attempting to update book: To Kill a Mockingbird with new quantity: 10
+2024-10-14 14:15:43,459 - WARNING - Book To Kill a Mockingbird does not exist in library.
+2024-10-14 14:15:43,459 - INFO - Fetching current library
+2024-10-14 14:15:43,459 - DEBUG - Current library: {'The Great Gatsby': 10, '1984': 20}
+2024-10-14 14:15:43,459 - INFO - Attempting to remove book: The Great Gatsby
+2024-10-14 14:15:43,459 - DEBUG - Book The Great Gatsby removed successfully.
+2024-10-14 14:15:43,459 - INFO - Attempting to remove book: Moby Dick
+2024-10-14 14:15:43,459 - WARNING - Book Moby Dick does not exist in library.
+2024-10-14 14:15:43,459 - INFO - Fetching current library
+2024-10-14 14:15:43,459 - DEBUG - Current library: {'1984': 20}
+2024-10-14 14:15:43,459 - INFO - Application finished

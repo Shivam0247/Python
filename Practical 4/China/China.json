@@ -1,0 +1,37 @@
+[
+    {
+        "country": "China",
+        "date": "2020-04-07",
+        "confirmed_cases": { "total": 82000, "new": 20 },
+        "deaths": { "total": 3300, "new": 3 },
+        "recovered": { "total": 78000, "new": 100 }
+    },
+    {
+        "country": "China",
+        "date": "2020-04-08",
+        "confirmed_cases": { "total": 82020, "new": 20 },
+        "deaths": { "total": 3303, "new": 3 },
+        "recovered": { "total": 78100, "new": 100 }
+    },
+    {
+        "country": "China",
+        "date": "2020-04-09",
+        "confirmed_cases": { "total": 82040, "new": 20 },
+        "deaths": { "total": 3306, "new": 3 },
+        "recovered": { "total": 78200, "new": 100 }
+    },
+    {
+        "country": "China",
+        "date": "2020-04-10",
+        "confirmed_cases": { "total": 82060, "new": 20 },
+        "deaths": { "total": 3309, "new": 3 },
+        "recovered": { "total": 78300, "new": 100 }
+    },
+    {
+        "country": "China",
+        "date": "2020-04-11",
+        "confirmed_cases": { "total": 82080, "new": 20 },
+        "deaths": { "total": 3312, "new": 3 },
+        "recovered": { "total": 78400, "new": 100 }
+    }
+]

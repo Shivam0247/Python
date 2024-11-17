@@ -1,0 +1,11 @@
+train_id,train_name,source_station,destination_station,total_seats,price
+1,Express A,Station 1,Station 5,250,200
+2,Local B,Station 2,Station 6,150,100
+3,Express C,Station 3,Station 7,350,500
+4,Local D,Station 4,Station 8,190,400
+5,Superfast E,Station 1,Station 9,400,160
+6,Local F,Station 2,Station 10,180,340
+7,Express G,Station 3,Station 11,320,320
+8,Superfast H,Station 4,Station 12,410,100
+9,Local I,Station 1,Station 13,170,500
+10,Express J,Station 2,Station 14,290,200

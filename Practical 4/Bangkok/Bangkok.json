@@ -1,0 +1,37 @@
+[
+    {
+        "country": "Bangkok",
+        "date": "2020-04-07",
+        "confirmed_cases": { "total": 15000, "new": 15 },
+        "deaths": { "total": 200, "new": 2 },
+        "recovered": { "total": 12000, "new": 50 }
+    },
+    {
+        "country": "Bangkok",
+        "date": "2020-04-08",
+        "confirmed_cases": { "total": 15015, "new": 15 },
+        "deaths": { "total": 202, "new": 2 },
+        "recovered": { "total": 12050, "new": 50 }
+    },
+    {
+        "country": "Bangkok",
+        "date": "2020-04-09",
+        "confirmed_cases": { "total": 15030, "new": 15 },
+        "deaths": { "total": 204, "new": 2 },
+        "recovered": { "total": 12100, "new": 50 }
+    },
+    {
+        "country": "Bangkok",
+        "date": "2020-04-10",
+        "confirmed_cases": { "total": 15045, "new": 15 },
+        "deaths": { "total": 206, "new": 2 },
+        "recovered": { "total": 12150, "new": 50 }
+    },
+    {
+        "country": "Bangkok",
+        "date": "2020-04-11",
+        "confirmed_cases": { "total": 15060, "new": 15 },
+        "deaths": { "total": 208, "new": 2 },
+        "recovered": { "total": 12200, "new": 50 }
+    }
+]

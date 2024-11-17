@@ -1,0 +1,11 @@
+Customer ID,Product ID,Review Date,Review Rating,Review Text
+ABC123,ABCDEFGHIJ,2023-07-29,5,Great product!
+DEF456,KLMNOPQRST,2023-07-28,4,Good value for money.
+GHI789,UVWXYZ1234,2023-07-27,3,Average quality.
+JKL012,ABCDEFGHIJ,2023-07-26,2,Not satisfied with the product.
+MNO345,KLMNOPQRST,2023-07-25,5,Excellent product, highly recommend!
+PQR678,UVWXYZ1234,2023-07-24,1,Very poor quality.
+STU901,ABCDEFGHIJ,2023-07-23,4,Works well as described.
+VWX234,KLMNOPQRST,2023-07-22,3,It's okay, does the job.
+YZA567,UVWXYZ1234,2023-07-21,5,Fantastic product, very happy with it.
+BCD890,ABCDEFGHIJ,2023-07-20,2,Disappointed expected better.

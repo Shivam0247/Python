@@ -1,0 +1,20 @@
+2024-09-30 14:57:19,183 - INFO - Application started
+2024-09-30 14:57:19,184 - INFO - Attempting to add item: Laptop with quantity: 10
+2024-09-30 14:57:19,184 - DEBUG - Item Laptop added successfully with quantity 10
+2024-09-30 14:57:19,184 - INFO - Attempting to add item: Phone with quantity: 15
+2024-09-30 14:57:19,184 - DEBUG - Item Phone added successfully with quantity 15
+2024-09-30 14:57:19,185 - INFO - Attempting to add item: Laptop with quantity: 5
+2024-09-30 14:57:19,185 - WARNING - Item Laptop already exists. Use update_item instead.
+2024-09-30 14:57:19,185 - INFO - Attempting to update item: Phone with new quantity: 5
+2024-09-30 14:57:19,186 - DEBUG - Item Phone updated successfully. New quantity: 20
+2024-09-30 14:57:19,186 - INFO - Attempting to update item: Tablet with new quantity: 10
+2024-09-30 14:57:19,186 - WARNING - Item Tablet does not exist in inventory.
+2024-09-30 14:57:19,186 - INFO - Fetching current inventory
+2024-09-30 14:57:19,186 - DEBUG - Current inventory: {'Laptop': 10, 'Phone': 20}
+2024-09-30 14:57:19,187 - INFO - Attempting to remove item: Laptop
+2024-09-30 14:57:19,187 - DEBUG - Item Laptop removed successfully.
+2024-09-30 14:57:19,187 - INFO - Attempting to remove item: Camera
+2024-09-30 14:57:19,187 - WARNING - Item Camera does not exist in inventory.
+2024-09-30 14:57:19,187 - INFO - Fetching current inventory
+2024-09-30 14:57:19,187 - DEBUG - Current inventory: {'Phone': 20}
+2024-09-30 14:57:19,187 - INFO - Application finished
