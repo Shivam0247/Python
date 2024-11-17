@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load trains data
-file_path = r'C:\Data\workspace\Advance Python\Practical 2\trains.csv'
+file_path = r'/Users/patelshivam/Documents/PythonLab/Advance Python/Practical 2/trains.csv'
 df = pd.read_csv(file_path)
 
 
@@ -19,7 +19,7 @@ df.fillna({
 }, inplace=True)
 
 
-file_path2 = r'C:\Data\workspace\Advance Python\Practical 2\passengers.csv'
+file_path2 = r'/Users/patelshivam/Documents/PythonLab/Advance Python/Practical 2/passengers.csv'
 df2 = pd.read_csv(file_path2)
 
 

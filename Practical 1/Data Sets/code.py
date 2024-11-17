@@ -11,7 +11,8 @@ invalid_reviews_count = 0
 
 # Loop to read 5 CSV files
 for i in range(1, 6):
-    file_name = f"C:\\Data\\workspace\\Advance Python\\Practical 1\\Data Sets\\file{i}.csv"  # Generate file name
+    file_name = f"/Users/patelshivam/Documents/PythonLab/Advance Python/Practical 1/Data Sets/file{i}.csv"  # Generate file name
+    
     try:
         # Read the CSV file using pandas, skipping bad lines
         df = pd.read_csv(file_name, on_bad_lines='skip')

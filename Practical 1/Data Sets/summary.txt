@@ -1,0 +1,18 @@
+Average Ratings for Each Product ID:
+Product ID: ABCDEFGHIJ, Average Rating: 3.00
+Product ID: KLMNOPQRST, Average Rating: 3.67
+Product ID: UVWXYZ1234, Average Rating: 2.92
+Product ID: ABHDEFGHIJ, Average Rating: 3.00
+Product ID: ABCDEFDEIJ, Average Rating: 4.00
+Product ID: MNOPQRSTUV, Average Rating: 4.00
+Product ID: QRSTUVWXZA, Average Rating: 4.50
+Product ID: JKLMNOPQRS, Average Rating: 3.00
+Product ID: ABCDEFJKLM, Average Rating: 5.00
+---
+Total number of reviews processed: 46
+Number of valid reviews: 45
+Number of invalid reviews: 1
+Average rating of top 3 products with highest average ratings:
+Product ID: ABCDEFJKLM, Average Rating: 5.00
+Product ID: QRSTUVWXZA, Average Rating: 4.50
+Product ID: ABCDEFDEIJ, Average Rating: 4.00
