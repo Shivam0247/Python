@@ -1,0 +1,92 @@
+[
+  {
+    "Student ID": 101,
+    "Name": "John Doe",
+    "Email": "johndoe@example.com",
+    "Course Name": "Data Structures",
+    "Enrollment Date": "2024-01-15",
+    "Credits": 4,
+    "Grade": "A"
+  },
+  {
+    "Student ID": 102,
+    "Name": "Jane Smith",
+    "Email": "janesmith@example.com",
+    "Course Name": "Operating Systems",
+    "Enrollment Date": "2024-01-20",
+    "Credits": 3,
+    "Grade": "B"
+  },
+  {
+    "Student ID": 103,
+    "Name": "Alice Johnson",
+    "Email": "alice.johnson@example.com",
+    "Course Name": "Database Systems",
+    "Enrollment Date": "2024-01-18",
+    "Credits": 3,
+    "Grade": "C"
+  },
+  {
+    "Student ID": 104,
+    "Name": "Bob Lee",
+    "Email": "bob.lee@example.com",
+    "Course Name": "Data Structures",
+    "Enrollment Date": "2024-01-15",
+    "Credits": 4,
+    "Grade": "F"
+  },
+  {
+    "Student ID": 105,
+    "Name": "Carol King",
+    "Email": "carol.king@example.com",
+    "Course Name": "Algorithms",
+    "Enrollment Date": "2024-01-22",
+    "Credits": 4,
+    "Grade": "A"
+  },
+  {
+    "Student ID": 106,
+    "Name": "Dave Brown",
+    "Email": "dave.brown@example.com",
+    "Course Name": "Operating Systems",
+    "Enrollment Date": "2024-01-20",
+    "Credits": 3,
+    "Grade": "B"
+  },
+  {
+    "Student ID": 107,
+    "Name": "Eve Davis",
+    "Email": "eve.davis@example.com",
+    "Course Name": "Database Systems",
+    "Enrollment Date": "2024-01-18",
+    "Credits": 3,
+    "Grade": "A"
+  },
+  {
+    "Student ID": 108,
+    "Name": "Frank Miller",
+    "Email": "frank.miller@example.com",
+    "Course Name": "Algorithms",
+    "Enrollment Date": "2024-01-22",
+    "Credits": 4,
+    "Grade": "C"
+  },
+  {
+    "Student ID": 109,
+    "Name": "Grace Wilson",
+    "Email": "grace.wilson@example.com",
+    "Course Name": "Data Structures",
+    "Enrollment Date": "2024-01-15",
+    "Credits": 4,
+    "Grade": "B"
+  },
+  {
+    "Student ID": 110,
+    "Name": "Hank Moore",
+    "Email": "hank.moore@example.com",
+    "Course Name": "Operating Systems",
+    "Enrollment Date": "2024-01-20",
+    "Credits": 3,
+    "Grade": "F"
+  }
+]
